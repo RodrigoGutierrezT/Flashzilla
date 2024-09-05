@@ -14,6 +14,7 @@
 		5B24E92A2C89324300C003E5 /* GesturesView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5B24E9292C89324300C003E5 /* GesturesView.swift */; };
 		5B24E92C2C8936B100C003E5 /* MagnifyGestureView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5B24E92B2C8936B100C003E5 /* MagnifyGestureView.swift */; };
 		5B24E92E2C89376F00C003E5 /* RotationGestureView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5B24E92D2C89376F00C003E5 /* RotationGestureView.swift */; };
+		5B24E9302C893DBC00C003E5 /* PriorityGestureView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5B24E92F2C893DBC00C003E5 /* PriorityGestureView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -25,6 +26,7 @@
 		5B24E9292C89324300C003E5 /* GesturesView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GesturesView.swift; sourceTree = "<group>"; };
 		5B24E92B2C8936B100C003E5 /* MagnifyGestureView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MagnifyGestureView.swift; sourceTree = "<group>"; };
 		5B24E92D2C89376F00C003E5 /* RotationGestureView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RotationGestureView.swift; sourceTree = "<group>"; };
+		5B24E92F2C893DBC00C003E5 /* PriorityGestureView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PriorityGestureView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -80,6 +82,7 @@
 				5B24E9292C89324300C003E5 /* GesturesView.swift */,
 				5B24E92B2C8936B100C003E5 /* MagnifyGestureView.swift */,
 				5B24E92D2C89376F00C003E5 /* RotationGestureView.swift */,
+				5B24E92F2C893DBC00C003E5 /* PriorityGestureView.swift */,
 			);
 			path = Snippets;
 			sourceTree = "<group>";
@@ -154,6 +157,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				5B24E9302C893DBC00C003E5 /* PriorityGestureView.swift in Sources */,
 				5B24E92A2C89324300C003E5 /* GesturesView.swift in Sources */,
 				5B24E92E2C89376F00C003E5 /* RotationGestureView.swift in Sources */,
 				5B24E91D2C8931B700C003E5 /* ContentView.swift in Sources */,
