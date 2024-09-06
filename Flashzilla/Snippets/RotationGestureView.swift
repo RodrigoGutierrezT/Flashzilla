@@ -17,7 +17,6 @@ struct RotationGestureView: View {
             .gesture(
                 RotateGesture()
                     .onChanged { value in
-                        // value.magnification defaults to 1
                         currentAmount = value.rotation
                     }
                     .onEnded{ value in
