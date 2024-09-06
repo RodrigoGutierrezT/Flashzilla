@@ -21,6 +21,7 @@
 		5B24E93A2C8A8A3A00C003E5 /* TimerView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5B24E9392C8A8A3A00C003E5 /* TimerView.swift */; };
 		5B24E93C2C8BC23A00C003E5 /* ScenePhaseView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5B24E93B2C8BC23A00C003E5 /* ScenePhaseView.swift */; };
 		5B24E93E2C8BC72300C003E5 /* AccDiffWithoutColorView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5B24E93D2C8BC72300C003E5 /* AccDiffWithoutColorView.swift */; };
+		5B24E9402C8BC8DC00C003E5 /* AccReduceMotionView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5B24E93F2C8BC8DC00C003E5 /* AccReduceMotionView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -39,6 +40,7 @@
 		5B24E9392C8A8A3A00C003E5 /* TimerView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TimerView.swift; sourceTree = "<group>"; };
 		5B24E93B2C8BC23A00C003E5 /* ScenePhaseView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScenePhaseView.swift; sourceTree = "<group>"; };
 		5B24E93D2C8BC72300C003E5 /* AccDiffWithoutColorView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AccDiffWithoutColorView.swift; sourceTree = "<group>"; };
+		5B24E93F2C8BC8DC00C003E5 /* AccReduceMotionView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AccReduceMotionView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -101,6 +103,7 @@
 				5B24E9392C8A8A3A00C003E5 /* TimerView.swift */,
 				5B24E93B2C8BC23A00C003E5 /* ScenePhaseView.swift */,
 				5B24E93D2C8BC72300C003E5 /* AccDiffWithoutColorView.swift */,
+				5B24E93F2C8BC8DC00C003E5 /* AccReduceMotionView.swift */,
 			);
 			path = Snippets;
 			sourceTree = "<group>";
@@ -182,6 +185,7 @@
 				5B24E92A2C89324300C003E5 /* GesturesView.swift in Sources */,
 				5B24E92E2C89376F00C003E5 /* RotationGestureView.swift in Sources */,
 				5B24E9342C8A7FA200C003E5 /* DragGestureView.swift in Sources */,
+				5B24E9402C8BC8DC00C003E5 /* AccReduceMotionView.swift in Sources */,
 				5B24E91D2C8931B700C003E5 /* ContentView.swift in Sources */,
 				5B24E9362C8A848800C003E5 /* HitTestingView.swift in Sources */,
 				5B24E91B2C8931B700C003E5 /* FlashzillaApp.swift in Sources */,
