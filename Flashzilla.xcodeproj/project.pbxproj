@@ -16,6 +16,7 @@
 		5B24E92E2C89376F00C003E5 /* RotationGestureView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5B24E92D2C89376F00C003E5 /* RotationGestureView.swift */; };
 		5B24E9302C893DBC00C003E5 /* PriorityGestureView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5B24E92F2C893DBC00C003E5 /* PriorityGestureView.swift */; };
 		5B24E9342C8A7FA200C003E5 /* DragGestureView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5B24E9332C8A7FA200C003E5 /* DragGestureView.swift */; };
+		5B24E9362C8A848800C003E5 /* HitTestingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5B24E9352C8A848800C003E5 /* HitTestingView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -29,6 +30,7 @@
 		5B24E92D2C89376F00C003E5 /* RotationGestureView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RotationGestureView.swift; sourceTree = "<group>"; };
 		5B24E92F2C893DBC00C003E5 /* PriorityGestureView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PriorityGestureView.swift; sourceTree = "<group>"; };
 		5B24E9332C8A7FA200C003E5 /* DragGestureView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DragGestureView.swift; sourceTree = "<group>"; };
+		5B24E9352C8A848800C003E5 /* HitTestingView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HitTestingView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -86,6 +88,7 @@
 				5B24E92D2C89376F00C003E5 /* RotationGestureView.swift */,
 				5B24E92F2C893DBC00C003E5 /* PriorityGestureView.swift */,
 				5B24E9332C8A7FA200C003E5 /* DragGestureView.swift */,
+				5B24E9352C8A848800C003E5 /* HitTestingView.swift */,
 			);
 			path = Snippets;
 			sourceTree = "<group>";
@@ -165,6 +168,7 @@
 				5B24E92E2C89376F00C003E5 /* RotationGestureView.swift in Sources */,
 				5B24E9342C8A7FA200C003E5 /* DragGestureView.swift in Sources */,
 				5B24E91D2C8931B700C003E5 /* ContentView.swift in Sources */,
+				5B24E9362C8A848800C003E5 /* HitTestingView.swift in Sources */,
 				5B24E91B2C8931B700C003E5 /* FlashzillaApp.swift in Sources */,
 				5B24E92C2C8936B100C003E5 /* MagnifyGestureView.swift in Sources */,
 			);
