@@ -19,6 +19,7 @@
 		5B24E9362C8A848800C003E5 /* HitTestingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5B24E9352C8A848800C003E5 /* HitTestingView.swift */; };
 		5B24E9382C8A865700C003E5 /* TapAreaView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5B24E9372C8A865700C003E5 /* TapAreaView.swift */; };
 		5B24E93A2C8A8A3A00C003E5 /* TimerView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5B24E9392C8A8A3A00C003E5 /* TimerView.swift */; };
+		5B24E93C2C8BC23A00C003E5 /* ScenePhaseView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5B24E93B2C8BC23A00C003E5 /* ScenePhaseView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -35,6 +36,7 @@
 		5B24E9352C8A848800C003E5 /* HitTestingView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HitTestingView.swift; sourceTree = "<group>"; };
 		5B24E9372C8A865700C003E5 /* TapAreaView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TapAreaView.swift; sourceTree = "<group>"; };
 		5B24E9392C8A8A3A00C003E5 /* TimerView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TimerView.swift; sourceTree = "<group>"; };
+		5B24E93B2C8BC23A00C003E5 /* ScenePhaseView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScenePhaseView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -95,6 +97,7 @@
 				5B24E9352C8A848800C003E5 /* HitTestingView.swift */,
 				5B24E9372C8A865700C003E5 /* TapAreaView.swift */,
 				5B24E9392C8A8A3A00C003E5 /* TimerView.swift */,
+				5B24E93B2C8BC23A00C003E5 /* ScenePhaseView.swift */,
 			);
 			path = Snippets;
 			sourceTree = "<group>";
@@ -169,6 +172,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				5B24E93C2C8BC23A00C003E5 /* ScenePhaseView.swift in Sources */,
 				5B24E93A2C8A8A3A00C003E5 /* TimerView.swift in Sources */,
 				5B24E9382C8A865700C003E5 /* TapAreaView.swift in Sources */,
 				5B24E9302C893DBC00C003E5 /* PriorityGestureView.swift in Sources */,
