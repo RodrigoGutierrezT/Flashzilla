@@ -24,6 +24,7 @@
 		5B24E9402C8BC8DC00C003E5 /* AccReduceMotionView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5B24E93F2C8BC8DC00C003E5 /* AccReduceMotionView.swift */; };
 		5B24E9422C8BCCCA00C003E5 /* AccReduceTransparencyView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5B24E9412C8BCCCA00C003E5 /* AccReduceTransparencyView.swift */; };
 		5B24E9442C8BCFB500C003E5 /* Card.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5B24E9432C8BCFB500C003E5 /* Card.swift */; };
+		5B24E9462C8BD08700C003E5 /* CardView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5B24E9452C8BD08700C003E5 /* CardView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -45,6 +46,7 @@
 		5B24E93F2C8BC8DC00C003E5 /* AccReduceMotionView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AccReduceMotionView.swift; sourceTree = "<group>"; };
 		5B24E9412C8BCCCA00C003E5 /* AccReduceTransparencyView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AccReduceTransparencyView.swift; sourceTree = "<group>"; };
 		5B24E9432C8BCFB500C003E5 /* Card.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Card.swift; sourceTree = "<group>"; };
+		5B24E9452C8BD08700C003E5 /* CardView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CardView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -79,6 +81,7 @@
 			children = (
 				5B24E91E2C8931B800C003E5 /* Assets.xcassets */,
 				5B24E9432C8BCFB500C003E5 /* Card.swift */,
+				5B24E9452C8BD08700C003E5 /* CardView.swift */,
 				5B24E91C2C8931B700C003E5 /* ContentView.swift */,
 				5B24E91A2C8931B700C003E5 /* FlashzillaApp.swift */,
 				5B24E9202C8931B800C003E5 /* Preview Content */,
@@ -198,6 +201,7 @@
 				5B24E9362C8A848800C003E5 /* HitTestingView.swift in Sources */,
 				5B24E91B2C8931B700C003E5 /* FlashzillaApp.swift in Sources */,
 				5B24E93E2C8BC72300C003E5 /* AccDiffWithoutColorView.swift in Sources */,
+				5B24E9462C8BD08700C003E5 /* CardView.swift in Sources */,
 				5B24E92C2C8936B100C003E5 /* MagnifyGestureView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
